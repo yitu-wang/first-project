@@ -1,0 +1,1 @@
+html使用import引入了本地的js文件，直接打开会出现跨域问题，可以使用vscode安装live server插件打开，或者搭建一个node服务器环境下运行html网页。
