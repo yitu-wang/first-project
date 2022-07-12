@@ -1,5 +1,5 @@
 # hmtt
-
+可以直接在vscode中打开dist的html使用live server 环境下运行
 ## Project setup
 ```
 npm install
